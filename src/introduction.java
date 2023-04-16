@@ -1,4 +1,4 @@
-public class Introduction {
+public class introduction {
     public static void main(String[] args) {
         // To comment a line
         /* To comment multiple lines */
