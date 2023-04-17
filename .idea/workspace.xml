@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Casting Variables">
-      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added If statement. Logical and comparison operators">
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfStatement">
+  <component name="RunManager" selected="Application.SwitchStatement">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="Java-Introduction" />
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatement" />
       <module name="Java-Introduction" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.IfStatement" />
         <item itemvalue="Application.Casting" />
         <item itemvalue="Application.MathClass" />
         <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681694261716</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added If statement. Logical and comparison operators">
+      <created>1681702347891</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681702347891</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +165,7 @@
     <MESSAGE value="Added Assignment Operators" />
     <MESSAGE value="Added Math Class" />
     <MESSAGE value="Added Casting Variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Casting Variables" />
+    <MESSAGE value="Added If statement. Logical and comparison operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added If statement. Logical and comparison operators" />
   </component>
 </project>
