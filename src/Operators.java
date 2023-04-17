@@ -21,5 +21,9 @@ public class Operators {
         System.out.println(gift);
         int giftTwo = 100 + ++i; // In this case it first increments and then accesses the variable
         System.out.println(giftTwo);
+
+        // Comparison operators: ==, !=, >, <, >=, <=.
+
+        // Logical operators: &&, ||, !.
     }
 }

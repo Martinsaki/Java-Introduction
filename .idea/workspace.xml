@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Math Class">
-      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
+    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Casting Variables">
+      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,16 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Casting">
+  <component name="RunManager" selected="Application.IfStatement">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
+      <module name="Java-Introduction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStatement" />
       <module name="Java-Introduction" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables" />
-      <module name="Java-Introduction" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfStatement" />
         <item itemvalue="Application.Casting" />
         <item itemvalue="Application.MathClass" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681693197638</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Casting Variables">
+      <created>1681694261715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681694261716</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +158,7 @@
     <MESSAGE value="Added data types and rename files" />
     <MESSAGE value="Added Assignment Operators" />
     <MESSAGE value="Added Math Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Math Class" />
+    <MESSAGE value="Added Casting Variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Casting Variables" />
   </component>
 </project>
