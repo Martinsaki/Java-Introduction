@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Switch Statement">
-      <change afterPath="$PROJECT_DIR$/src/Functions.java" afterDir="false" />
+    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Functions">
+      <change afterPath="$PROJECT_DIR$/src/JavaDocs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/martinborrini/IdeaProjects/Java-Introduction",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Functions">
+  <component name="RunManager" selected="Application.JavaDocs">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="Java-Introduction" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathClass" />
+    <configuration name="JavaDocs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaDocs" />
       <module name="Java-Introduction" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaDocs" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.IfStatement" />
         <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.MathClass" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681703034372</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added Functions">
+      <created>1681704660299</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681704660299</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +181,7 @@
     <MESSAGE value="Added Casting Variables" />
     <MESSAGE value="Added If statement. Logical and comparison operators" />
     <MESSAGE value="Added Switch Statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Switch Statement" />
+    <MESSAGE value="Added Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Functions" />
   </component>
 </project>
