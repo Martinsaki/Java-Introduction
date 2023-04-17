@@ -12,11 +12,21 @@ public class Arrays {
         androidVersions[1] = "Banana Pie";
         androidVersions[2] = "Cupcake";
         androidVersions[3] = "Donut";
-        System.out.println(androidVersions[1]);
 
         cities[0][0] = "Colombia";
         cities[0][1] = "Medellin";
         cities[2][1] = "Buenos Aires";
-        System.out.println(cities[2][1]);
+
+        // Nested For
+
+        for (int i = 0; i <= androidVersions.length-1; i++) {
+            System.out.println(i + androidVersions[i]);
+        }
+
+        for (int i = 0; i < cities.length; i++) {
+            for (int j = 0; j < cities[i].length; j++) {
+                System.out.println(i + cities[i][j]);
+            }
+        }
     }
 }

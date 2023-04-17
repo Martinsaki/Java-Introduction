@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Loops">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="69e2291a-9e94-4d40-a363-7facb8c6a641" name="Changes" comment="Added Arrays">
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681743864320</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Arrays">
+      <created>1681746147960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681746147960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +204,7 @@
     <MESSAGE value="Added Functions" />
     <MESSAGE value="Added Javadocs" />
     <MESSAGE value="Added Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Loops" />
+    <MESSAGE value="Added Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Arrays" />
   </component>
 </project>
